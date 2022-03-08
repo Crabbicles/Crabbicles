@@ -6,6 +6,7 @@ I’m interested in:
 - Game Programming
 - Computer Hardware
 - Cloud Computing
+- Python
 
 Currently I am:
 - Working through the entire [freecodecamp.org](https://www.freecodecamp.org/learn) curriculum
