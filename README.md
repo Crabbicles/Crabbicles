@@ -9,7 +9,7 @@ I’m interested in:
 - Python
 
 Currently I am:
-- Working through the entire [freecodecamp.org](https://www.freecodecamp.org/learn) curriculum. ([Click here!](https://www.freecodecamp.org/Crabbicles) to see my FCC profile)
+- Working through the entire [freecodecamp.org](https://www.freecodecamp.org/learn) curriculum. ([Click here](https://www.freecodecamp.org/Crabbicles) to see my FCC profile)
 - Learning programming concepts in Python and Java
 - Learning game programming concepts in Pygame and Unity
 
