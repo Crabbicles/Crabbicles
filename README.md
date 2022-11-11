@@ -11,7 +11,7 @@ I’m interested in:
 - Python
 
 Currently I am:
--Pursuing education in the Environmental Sector
--Pursuing student co-op work in the Environmental Sector
+- Pursuing education in the Environmental Sector
+- Pursuing student co-op work in the Environmental Sector
 
 Thanks for checking out my profile 😄 
