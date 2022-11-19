@@ -1,6 +1,6 @@
 My name is Evan Crabb and I am a self-taught programmer pursuing coding as a hobby!
 
-Check out my new [Github Pages!](https://www.evancrabb.dev) (Warning! Still work in progress!)
+Check out my new [Github Pages!](https://www.evancrabb.dev)
 
 I’m interested in:
 - Python
