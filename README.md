@@ -1,14 +1,14 @@
 My name is Evan Crabb and I am a self-taught programmer pursuing coding as a hobby!
 
-Check out my new [Github Pages!](https://www.evancrabb.dev)
+Check out my new [Github Pages!](https://www.evancrabb.dev) (Warning! Still work in progress!)
 
 I’m interested in:
+- Python
+- Geospatial Technology
+- Environmental Technology
 - Internet of Things
 - Game Programming
 - Computer Hardware
-- Geospatial Technology
-- Environmental Technology
-- Python
 
 Currently I am:
 - Pursuing education in the Environmental Sector
